@@ -1,5 +1,7 @@
 # Music_ranking_project
 
+We use machine learning to predict the danceability of music track.
+
 We evaluated the performance between different models, including precision, scalability and efficiency. Most of the parameters we use is tested by cross-validation.
 
 ### Data Preprocess
